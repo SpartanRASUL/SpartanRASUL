@@ -5,13 +5,17 @@
 
 - 🔭 I’m currently working on [CT-Mobile iPad app](https://customertimes.com)
 
-- 🌱 I’m currently learning **SwiftUI, Metal Framework, CoreML and iOS Hacking**
+- 🌱 I’m currently learning **SwiftUI, Metal Framework, CoreML and Hacking**
+
+- 💻 I would like to work with GPU on iOS (i.e. Video Editors)
 
 - 💬 Ask me about **iOS, Swift, Objective-C and other Apple stuff**
 
 - 📫 How to reach me **spartanrasul@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/rasul-tataev](linkedin.com/in/rasul-tataev)
+
+- 🧐 I also have a [telegram channel](https://t.me/ios_developer_05) feel free to join!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

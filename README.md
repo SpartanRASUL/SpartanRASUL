@@ -17,7 +17,7 @@
 
 - 🧐 I also have a [telegram channel](https://t.me/ios_developer_05) feel free to join!
 
-[![Readme Card](https://github.com/SpartanRASUL/Metal_Stories)](https://github.com/anuraghazra/github-readme-stats)
+[![Metal Video Editor](https://github-readme-stats.vercel.app/api/pin/?username=spartanrasul&repo=Metal_Stories)](https://github.com/SpartanRASUL/Metal_Stories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

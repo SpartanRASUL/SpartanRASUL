@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">Senior iOS Developer from Moscow</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spartanrasul&label=Profile%20views&color=0e75b6&style=flat" alt="spartanrasul" /> </p>
+
 - 🔭 I’m currently working on [CT-Mobile iPad app](https://customertimes.com)
 
 - 🌱 I’m currently learning **SwiftUI, Metal Framework, CoreML and iOS Hacking**

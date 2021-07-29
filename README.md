@@ -18,7 +18,7 @@
 - 🧐 I also have a [telegram channel](https://t.me/ios_developer_05) feel free to join!
 
 [![Metal Video Editor](https://github-readme-stats.vercel.app/api/pin/?username=spartanrasul&repo=Metal_Stories)](https://github.com/SpartanRASUL/Metal_Stories)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartanrasul&show_icons=true&locale=en&layout=compact" alt="spartanrasul" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=spartanrasul&show_icons=true&locale=en&layout=compact" alt="spartanrasul" /></p>
 
 
 <h3 align="left">Connect with me:</h3>

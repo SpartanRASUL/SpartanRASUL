@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartanrasul&label=Profile%20views&color=0e75b6&style=flat" alt="spartanrasul" /> </p>
 
-- 🔭 I’m currently working on [CT-Mobile iPad app](https://customertimes.com)
+- 🔭 I’m currently working on [Tsum iOS App](https://tsum.ru)
 
-- 🌱 I’m currently learning **SwiftUI, Metal Framework, CoreML and Hacking**
+- 🌱 Currently learning **SwiftUI, Metal Framework, CoreML and Hacking**
 
 - 💻 I would like to work with GPU on iOS (i.e. Video Editors)
 
